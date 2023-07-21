@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moraadiana
-- 👀 I’m interested in networking, cloud computing and web development
-- 🌱 I’m currently learning network administration
-- 💞️ I’m looking to collaborate on cloud computing
+- 👀 I’m interested in  cloud computing, s/w development and networking. 
+- 🌱 I’m currently learning python and react 
+- 💞️ I’m looking to collaborate on python.
 - 📫 How to reach me : moraadiana13@gmail.com
 
 <!---
